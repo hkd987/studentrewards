@@ -1,3 +1,13 @@
-# studentrewards
+# Student Rewards
 Student Rewards System. 
-Working on a student PBIS rewards system that is open source and easy for schools to impliment. I feel that no tool currently on the market meetsthe needs of the entire school campus and only works in one classroom. 
+Is a web based tracker for teachers, schools, and students to track behavior. 
+
+# How it Works
+Students.
+Students can login and check their balance at any time and use funds to purchase classroom rewards
+Teachers. 
+Teachers can login and give funds to any student on campus at any time. 
+Admin. 
+Admin can mangage the entire system and keep the bank rolling. 
+
+
